@@ -1,0 +1,17 @@
+## Some Fuctions in arduino:
+
+1. pinMode() is the function which configures pin to behave either as an output or an input
+
+Syntax of pinMode(): 
+pinMode(pin, Mode); Where pin is the pin number and Mode is INPUT or OUTPUT.
+example: pinMode(13, OUTPUT);
+
+
+2.digitalWrite(): Write a high or low function to digital pin.
+Syntax: digitalWrite(pin, MODE)
+Example: digitalWrite(13, HIGH);
+
+3. Delay: Pauses the program for the amount of time (in ms) specified as parameter.
+Syntax: Delay(ms)
+Example: Delay(1000)
+
