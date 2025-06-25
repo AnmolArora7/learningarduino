@@ -6,13 +6,13 @@ int val = 15;
 
 void setup(
     {
-        // Example of a local variable. Can only be accessed in the block it is written in. 
+        // Example of a local variable. Can only be accessed in the block it is written in. Here, it is void setup:
         int num = 10;
     }
 )
 
 void loop()
-{
-    // Example of a local variable. Can only be accessed in the block it is written in. Here, it is void loop:
+{    // Example of a local variable. Can only be accessed in the block it is written in. Here, it is void loop:
+
     int time = 5
 }
